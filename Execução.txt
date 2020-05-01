@@ -1,4 +1,3 @@
-Ana Beatriz Machado Cuelbas - 11207881
 ------------------------------------------------------------------
 
 Abrir o terminal na pasta "src"
@@ -9,7 +8,7 @@ javac Player.java
 javac Ball.java
 javac Score.java
 
-Depois, é só executar o programa:
+Depois, Ã© sÃ³ executar o programa:
 
 java Pong
 
