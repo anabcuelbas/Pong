@@ -1,0 +1,16 @@
+Ana Beatriz Machado Cuelbas - 11207881
+------------------------------------------------------------------
+
+Abrir o terminal na pasta "src"
+
+Primeiro, deve-se compilar os arquivos .java:
+
+javac Player.java
+javac Ball.java
+javac Score.java
+
+Depois, é só executar o programa:
+
+java Pong
+
+------------------------------------------------------------------
