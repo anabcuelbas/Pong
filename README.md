@@ -7,4 +7,8 @@ Possui duas versões executáveis via terminal. Para mais detalhes sobre cada um
 
 ## Pong 1.0
 
+<img align='center' src="https://github.com/anabcuelbas/Pong/blob/master/Pong%201.png" width="500">
+
 ## Pong 2.0
+
+<img align='center' src="https://github.com/anabcuelbas/Pong/blob/master/Pong%202.png" width="500">
