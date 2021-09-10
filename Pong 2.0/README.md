@@ -1,7 +1,7 @@
 # Pong 2.0
 
 ## Descrição
-Adiciona novos recursos ao programa [Pong 1.0](https://github.com/anabcuelbas/COO_ep_Pong)
+Adiciona novos recursos ao programa [Pong 1.0](https://github.com/anabcuelbas/Pong/tree/master/Pong%201.0)
 
 Foi implementada uma nova classe chamada *FxBall*, que implementa a interface *IBall* e acrescenta um efeito de rastro na bola.
 Além disso, agora o jogo pode possuir mais de uma bola ao mesmo tempo, através de um obstáculo de duplicação e também ter a velocidade
