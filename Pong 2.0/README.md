@@ -8,7 +8,7 @@ Além disso, agora o jogo pode possuir mais de uma bola ao mesmo tempo, através
 da bola aumentada, através de um obstáculo de boost. Para o gerenciamento de todas as bolas, foi criada a classe *BallManager*.
 
 ## Compilando e executando o Pong 2.0
-Para compilar o jogo basta executar, no terminal, o comando:
+Para compilar o jogo basta abrir a pasta `src` e executar, no terminal, o comando:
 ```bash
 $ javac *.java
 ```
