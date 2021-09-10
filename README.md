@@ -1,4 +1,5 @@
-# Descrição
+# Pong 1.0
+## Descrição
 O projeto Pong! é escrito Java, e é composto pelas seguintes classes:
 
   - Pong : classe principal do jogo (contém o método main que gerencia o todo
@@ -18,3 +19,15 @@ Para ajudar, um esqueleto de cada uma das classes que precisavam ser implementad
 Player e Score ) foi disponibilizado. Desta forma, a tarefa consistia em
 completar cada um dos arquivos fontes de modo que cada classe implementasse o
 comportamento esperado delas, fazendo com que o jogo passasse a funcionar de forma plena.
+
+## Compilando e executando o Pong 1.0
+
+Para compilar o jogo, basta abrir a pasta `src` e, no terminal, executar o comando:
+```bash
+$ javac *.java
+```
+
+Depois, execute com o comando:
+```bash
+$ java Pong
+```
